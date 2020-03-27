@@ -350,3 +350,6 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+/cautious/cautious.sln
+/cautious/cautious.vcxproj
+/cautious/cautious.vcxproj.filters
