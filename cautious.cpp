@@ -7,5 +7,3 @@ void Display()
 {
 	std::cout << "Haikal boleh bawak";
 }
-
-
