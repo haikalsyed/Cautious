@@ -15,6 +15,7 @@ SET(CMAKE_ARCHIVE_OUTPUT_DIRECTORY_DEBUG ${CMAKE_ARCHIVE_OUTPUT_DIRECTORY})
 ADD_LIBRARY(function cautious.cpp)
 
 #set the executable (where main function is)
-ADD_EXECUTABLE(main main.cpp)
+#ADD_EXECUTABLE(main main.cpp)
 
-TARGET_LINK_LIBRARIES(main function)
+#TARGET_LINK_LIBRARIES(main function)
+TARGET_LINK_LIBRARIES(function)
